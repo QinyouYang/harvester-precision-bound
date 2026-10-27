@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying article and this repository."
+title: "Stochastic energy-harvesting precision bound: simulation and analysis code"
+abstract: >-
+  Code and computed results accompanying a study of a parameter-free precision
+  (kinetic) bound on the fluctuations of work harvested from broadband random
+  vibration, and an associated nonlinear fluctuation-control design law, verified
+  numerically, on a real NDBC buoy spectrum, against an independent bistable model,
+  and on measured records of a commercial piezoelectric harvester.
+type: software
+authors:
+  - family-names: "Yang"
+    given-names: "Qinyou"
+version: "1.0.0"
+date-released: "2026-10-27"
+license: MIT
+repository-code: "https://github.com/QinyouYang/harvester-precision-bound"
+url: "https://github.com/QinyouYang/harvester-precision-bound"
+keywords:
+  - stochastic thermodynamics
+  - energy harvesting
+  - work fluctuations
+  - bistable oscillator
+  - precision bound
